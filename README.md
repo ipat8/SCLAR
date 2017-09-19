@@ -1,2 +1,2 @@
 # SCLAR
-Distributed Compute Project (Acronym meaning to come)
+Scalable Cloud on Local Array Resources
