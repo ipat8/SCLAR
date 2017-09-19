@@ -1,2 +1,2 @@
 # SCLAR
-Scalable Cloud on Local Array Resources
+Scalable Compute on Local Array Resources
